@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\..\Lab2\Lab2.csproj" />
+      <ProjectReference Include="..\Labwork5.Application.Models\Labwork5.Application.Models.csproj" />
+    </ItemGroup>
+
+</Project>
